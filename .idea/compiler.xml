@@ -9,5 +9,9 @@
         <module name="multithreading" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="excercises-feb-2021" target="17" />
+      <module name="multithreading" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
